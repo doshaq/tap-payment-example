@@ -1,0 +1,1 @@
+declare module '@tap-payments/gosell-sdk-react-native';
